@@ -1,0 +1,14 @@
+{
+	"folders": [
+		{
+			"path": "../naive_base"
+		},
+		{
+			"path": "../SVM"
+		},
+		{
+			"path": "."
+		}
+	],
+	"settings": {}
+}
